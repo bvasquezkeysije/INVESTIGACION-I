@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "fa87e4d7b2722bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb714b4296fec76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d33fba751cf512a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.- Proyecto De Investigación/I. INTRODUCCIÓN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I. INTRODUCCIÓN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4787ee0ba905fb02",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8e45ba0c9b7cbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4b227c6fa860ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7399d73b3946a207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "6f81d196097d7aba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b445f81c8c386fe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb96d795fbcdffd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533b138f682ca08a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.- Artículos Científicos/AgentMaster A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de AgentMaster A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis"
+            }
+          },
+          {
+            "id": "3595258ac34a434c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.- Artículos Científicos/AgentMaster A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de AgentMaster A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis"
+            }
+          },
+          {
+            "id": "db8c667859b9aec8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "169d0c797983216f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a3c86240aebb61bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.- Artículos Científicos/AgentMaster A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de AgentMaster A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3d33fba751cf512a",
+  "lastOpenFiles": [
+    "1.- Proyecto De Investigación/II. MATERIAL Y MÉTODO.md",
+    "1.- Proyecto De Investigación/I. INTRODUCCIÓN.md",
+    "1.- Proyecto De Investigación/Rescatado.md",
+    "Pasted image 20260627230236.png",
+    "Pasted image 20260627230227.png",
+    "Rescatado.md",
+    "2.- Artículos Científicos/Traceability_IJAL_Publication.pdf",
+    "3.- Artículos de revisión/Microservices yesterday, today, and tomorrow.pdf",
+    "2.- Artículos Científicos/GLUE A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding.pdf",
+    "2.- Artículos Científicos/Data Integration A Theoretical Perspective.pdf",
+    "3.- Artículos de revisión/Augmented Language Models a Survey.pdf",
+    "4.- Libros/Anintroductiontomultiagentsystems.pdf",
+    "no usados/Dialnet-TrazabilidadEnLaCadenaDeSuministroDeAlimentos-9786940.pdf",
+    "no usados/The_Duo_of_Artificial_Intelligence_and_B.pdf",
+    "no usados/Principles_of_P2P_Data_Integration.pdf",
+    "no usados/Mapping_Industry_4_0_Technologies_From_C.pdf",
+    "1.- Proyecto De Investigación/III. ASPECTOS ADMINISTRATIVOS.md",
+    "1.- Proyecto De Investigación/REFERENCIAS.md",
+    "1.- Proyecto De Investigación/REGLAS.md",
+    "1.- Proyecto De Investigación/0. PROYECTO DE INVESTIGACIÓN.md",
+    "1.- Proyecto De Investigación/ANEXOS.md",
+    "Sin título.canvas",
+    "I. INTRODUCCION.md",
+    "1.- Proyecto de investigacion/0. PROYECTO DE INVESTIGACIÓN.md",
+    "1.- Proyecto de investigacion/REGLAS.md",
+    "1.- Proyecto de investigacion/REFERENCIAS.md",
+    "1.- Proyecto de investigacion/III. ASPECTOS ADMINISTRATIVOS.md",
+    "1.- Proyecto de investigacion/II. MATERIAL Y MÉTODO.md",
+    "1.- Proyecto de investigacion/I. INTRODUCCION.md",
+    "REGLAS.md",
+    "0.-PROYECTO DE INVESTIGACION.md",
+    "REFERENCIAS.md",
+    "III. ASPECTOS ADMINISTRATIVOS.md",
+    "II. MATERIAL Y MÉTODO.md",
+    "Sin título 1.canvas",
+    "REFERENNCIAS.md",
+    "0.1.-INDICE.md"
+  ]
+}
