@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTICULO DE REVISION/REFERENCIAS.md",
+                "file": "ARTICULO DE REVISION/Parte 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REFERENCIAS"
+              "title": "Parte 12"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTICULO DE REVISION/REFERENCIAS.md",
+                "file": "ARTICULO DE REVISION/Parte 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de REFERENCIAS"
+              "title": "Enlaces entrantes de Parte 9"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARTICULO DE REVISION/REFERENCIAS.md",
+                "file": "ARTICULO DE REVISION/Parte 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de REFERENCIAS"
+              "title": "Enlaces salientes de Parte 9"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTICULO DE REVISION/REFERENCIAS.md",
+                "file": "ARTICULO DE REVISION/Parte 9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de REFERENCIAS"
+              "title": "Esquema de Parte 9"
             }
           }
         ]
@@ -312,34 +312,39 @@
   },
   "active": "ef6db8d6bfe61086",
   "lastOpenFiles": [
-    "ARTICULO DE REVISION/MacroParaEliminarCodigos.txt",
-    "ARTICULO DE REVISION/Nuevo Documento de texto.txt",
-    "ARTICULO DE REVISION/~WRL0001.tmp",
-    "ARTICULO DE REVISION/~WRD0000.tmp",
-    "ARTICULO DE REVISION/~$ticulo_De_Revision.docx",
-    "ARTICULO DE REVISION/~WRL0005.tmp",
-    "ARTICULO DE REVISION/~WRD0004.tmp",
-    "ARTICULO DE REVISION/Parte 12.md",
-    "ARTICULO DE REVISION/REFERENCIAS.md",
     "ARTICULO DE REVISION/Parte 11.md",
     "ARTICULO DE REVISION/Parte 10.md",
-    "ARTICULO DE REVISION/Parte 9.md",
-    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/REFERENCIAS.md",
     "ARTICULO DE REVISION/Parte 8.md",
-    "ARTICULO DE REVISION/~WRL3340.tmp",
-    "ARTICULO DE REVISION/~WRD3336.tmp",
     "ARTICULO DE REVISION/Parte 7.md",
+    "ARTICULO DE REVISION/Parte 9.md",
+    "ARTICULO DE REVISION/Parte 3 Necesarios.md",
+    "ARTICULO DE REVISION/REFERENCIAS.md",
+    "ARTICULO DE REVISION/Reglas.md",
+    "ARTICULO DE REVISION/Parte 2 Necesarios.md",
+    "ARTICULO DE REVISION/Parte 1.md",
+    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/0. PROYECTO DE INVESTIGACIÓN.md",
+    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/I. INTRODUCCIÓN.md",
+    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/II. MATERIAL Y MÉTODO.md",
+    "ARTICULO DE REVISION/~WRL0705.tmp",
+    "ARTICULO DE REVISION/~WRD0690.tmp",
+    "ARTICULO DE REVISION/Parte 12.md",
+    "ARTICULO DE REVISION/~$visionsistematica_ChilconRamirez_BardalesVasquez.docx",
+    "ARTICULO DE REVISION/revisionsistematica_ChilconRamirez_BardalesVasquez.docx",
+    "ARTICULO DE REVISION/~WRL3742.tmp",
+    "ARTICULO DE REVISION/~WRD3730.tmp",
+    "ARTICULO DE REVISION/~WRL3152.tmp",
+    "ARTICULO DE REVISION/~WRD3136.tmp",
     "ARTICULO DE REVISION/Parte 6.md",
     "ARTICULO DE REVISION/Parte 5.md",
     "ARTICULO DE REVISION/Parte 4.md",
     "ARTICULO DE REVISION/Parte 3.md",
+    "ARTICULO DE REVISION/~WRL0003.tmp",
+    "ARTICULO DE REVISION/~WRD0002.tmp",
     "ARTICULO DE REVISION/Parte 2.md",
-    "ARTICULO DE REVISION/Parte 1.md",
+    "ARTICULO DE REVISION/Parte 2 NESESARIOS.md",
+    "ARTICULO DE REVISION/ParaParte2.md",
+    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/REFERENCIAS.md",
     "ARTICULO DE REVISION/Referencias.md",
-    "ARTICULO DE REVISION/Reglas.md",
-    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/0. PROYECTO DE INVESTIGACIÓN.md",
-    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/I. INTRODUCCIÓN.md",
-    "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/II. MATERIAL Y MÉTODO.md",
     "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/III. ASPECTOS ADMINISTRATIVOS.md",
     "PROYECTO DE INVESTIGACION/1.- Proyecto De Investigación/REGLAS.md"
   ]
